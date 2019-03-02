@@ -1,0 +1,25 @@
+div#header{
+	color: red;
+	height: 150px;
+	border:  2px solid black;
+	text-align:  center;
+
+}
+div#content{
+	color: green;
+	height: 150px;
+	border:  2px dotted black;
+	text-align:  center;
+
+}
+div#footer{
+	color: blue;
+	height: 150px;
+	border:  2px dashed black;
+	text-align:  center;
+
+}
+img{
+	height: 150px;
+}
+

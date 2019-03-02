@@ -1,0 +1,41 @@
+div#wlo{
+	color: red;
+	height: 300px;
+	border:  2px solid red;
+	text-align:  center;
+	line-height: 300px;
+	padding: 2px;
+
+}
+div#menu{
+	color: red;
+	height: 300px;
+	border:  2px solid red;
+	text-align:  center;
+	line-height:  300px;
+	padding: 2px;
+
+}
+div#content{
+	color: red;
+	height: 300px;
+	border:  2px solid red;
+	line-height: 300px;
+	text-align:  center;
+	padding: 2px;
+
+}
+div#footer{
+	color: red;
+	height: 300px;
+	border:  2px solid red;
+	line-height: 300px;
+	text-align:  center;
+	padding: 2px;
+
+}
+body{
+	border: 2px solid red;
+	padding: 2px;
+	
+}
